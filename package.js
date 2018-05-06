@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "setprefix.js",
   "scripts": {
     "start": "node bot.js"
   },
