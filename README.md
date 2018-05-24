@@ -1,2 +1,2 @@
-# hpesquadheroku
-heroku bot
+# Prism
+Prism Bot
